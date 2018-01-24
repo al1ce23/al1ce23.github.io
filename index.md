@@ -2,10 +2,10 @@
 
 > nietzsche is dead ~ god
 
-# disclaimer: nothing is true, everything is permitted!
+# disclaimer: *nothing is true, everything is permitted!*
 
-My resources: https://github.com/al1ce23/resources/wiki
+[Resources](https://github.com/al1ce23/resources/wiki)
 
 ## projects
-
+* [DE] aus der geschichte lernen https://www.youtube.com/channel/UC-4qMIfr5NPlBzAgc0Q_axw
 
