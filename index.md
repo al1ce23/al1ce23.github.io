@@ -7,5 +7,5 @@
 [Resources](https://github.com/al1ce23/resources/wiki)
 
 ## projects
-* [DE] aus der geschichte lernen https://www.youtube.com/channel/UC-4qMIfr5NPlBzAgc0Q_axw
+* [aus der geschichte lernen](https://www.youtube.com/channel/UC-4qMIfr5NPlBzAgc0Q_axw)
 
